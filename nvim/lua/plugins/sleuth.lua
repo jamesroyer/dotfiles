@@ -1,4 +1,5 @@
 return {
 	-- Detect tabstop and shiftwidth automatically.
-	"tpope/vim-sleuth",
+	-- XXX: Why is after/ftplugin/cmake.txt file being ignored?
+--	"tpope/vim-sleuth",
 }
